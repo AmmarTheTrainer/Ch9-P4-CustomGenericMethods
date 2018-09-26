@@ -10,6 +10,9 @@ namespace Ch9_P4_CustomGenericMethods
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(" Welcome to custom generic methods ");
+
+            Console.ReadLine();
         }
     }
 }
